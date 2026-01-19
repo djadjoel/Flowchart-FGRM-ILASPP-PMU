@@ -4,6 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-22" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="L1xuBwUH4XwOWERQgpYA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-27" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L1xuBwUH4XwOWERQgpYA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-30" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L1xuBwUH4XwOWERQgpYA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Orang/Instansi" vertex="1">
+          <mxGeometry height="40" width="120" x="480" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-13" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="PROSES INVESTIGASI" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-21" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L1xuBwUH4XwOWERQgpYA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;ATR/BPN&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;BIG&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;KEMENDAGRI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-23" parent="1" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul style=&quot;padding-left: 15px; padding-right: 0px;&quot;&gt;&lt;li&gt;SP4N LAPOR!&lt;/li&gt;&lt;li&gt;Hotline WhatsApp&lt;/li&gt;&lt;li&gt;Surat&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;Tatap Muka&lt;/li&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="290" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-25" parent="1" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul style=&quot;padding-left: 15px; padding-right: 0px;&quot;&gt;&lt;li&gt;SP4N LAPOR!&lt;/li&gt;&lt;li&gt;Telepon&lt;/li&gt;&lt;li&gt;Surat&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="420" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-26" parent="1" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul style=&quot;padding-left: 15px; padding-right: 0px;&quot;&gt;&lt;li&gt;SP4N LAPOR!&lt;/li&gt;&lt;li&gt;Telepon&lt;/li&gt;&lt;li&gt;Surat&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="550" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;ILASPP PMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-29" parent="1" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul style=&quot;padding-left: 15px; padding-right: 0px;&quot;&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="680" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
