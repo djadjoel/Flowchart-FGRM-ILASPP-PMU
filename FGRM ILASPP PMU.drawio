@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Halaman-1" id="4Mb6TINJ1QYpuMTLepYT">
-    <mxGraphModel dx="718" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,15 +55,6 @@
         <mxCell id="L1xuBwUH4XwOWERQgpYA-26" parent="gGCixe3wiv4tVRb_lXQi-3" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ol style=&quot;padding-left: 15px; padding-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;li&gt;Link Pengaduan&lt;/li&gt;&lt;li&gt;Telepon&lt;/li&gt;&lt;li&gt;WhastApp&lt;/li&gt;&lt;li&gt;Tatap Muka&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sosial Media&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="90" width="120" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGCixe3wiv4tVRb_lXQi-4" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="180" width="120" x="570" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="L1xuBwUH4XwOWERQgpYA-28" parent="gGCixe3wiv4tVRb_lXQi-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;ILASPP PMU&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" as="geometry" />
-        </mxCell>
-        <mxCell id="L1xuBwUH4XwOWERQgpYA-29" parent="gGCixe3wiv4tVRb_lXQi-4" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ol style=&quot;padding-left: 15px; padding-bottom: 0px; margin-top: 12px;&quot;&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="90" width="120" y="60" as="geometry" />
-        </mxCell>
         <mxCell id="gGCixe3wiv4tVRb_lXQi-41" edge="1" parent="1" source="gGCixe3wiv4tVRb_lXQi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="gGCixe3wiv4tVRb_lXQi-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -105,14 +96,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGCixe3wiv4tVRb_lXQi-37" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gGCixe3wiv4tVRb_lXQi-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="440" />
-              <mxPoint x="420" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gGCixe3wiv4tVRb_lXQi-38" edge="1" parent="1" source="gGCixe3wiv4tVRb_lXQi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gGCixe3wiv4tVRb_lXQi-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -123,6 +106,21 @@
         </mxCell>
         <mxCell id="gGCixe3wiv4tVRb_lXQi-40" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Dashboard&lt;div&gt;Monitoring&lt;/div&gt;&lt;div&gt;FGRM&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="170" x="350" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="gSGjZ6AgFGGBnJBHiT0--1" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-29" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gSGjZ6AgFGGBnJBHiT0--3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="470" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="KANAL&lt;div&gt;PENGADUAN&lt;/div&gt;&lt;div&gt;ILASPP PMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-29" parent="1" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ol style=&quot;padding-left: 15px; padding-bottom: 0px; margin-top: 12px;&quot;&gt;&lt;li&gt;Sosial Media&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="610" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gSGjZ6AgFGGBnJBHiT0--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="420" x="140" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
