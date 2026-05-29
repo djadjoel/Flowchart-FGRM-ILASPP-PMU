@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36">
   <diagram name="Halaman-1" id="4Mb6TINJ1QYpuMTLepYT">
-    <mxGraphModel dx="1653" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="L1xuBwUH4XwOWERQgpYA-27" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L1xuBwUH4XwOWERQgpYA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1xuBwUH4XwOWERQgpYA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Orang/Instansi" vertex="1">
+        <mxCell id="L1xuBwUH4XwOWERQgpYA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Masyarakat/Instansi" vertex="1">
           <mxGeometry height="40" width="120" x="290" y="110" as="geometry" />
         </mxCell>
         <mxCell id="L1xuBwUH4XwOWERQgpYA-21" edge="1" parent="1" source="L1xuBwUH4XwOWERQgpYA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L1xuBwUH4XwOWERQgpYA-15">
